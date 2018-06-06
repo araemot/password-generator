@@ -1,7 +1,7 @@
 # password-generator
 
-Install for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/password-generator)
-and for [Chrome](https://chrome.google.com/webstore/detail/password-generator/iliehbhfgfbjllfhhbbceochgmkkhpcb).
+Install for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-password-generator1)
+and for [Chrome](https://chrome.google.com/webstore/detail/simple-password-generator/pbooddcbabpliclljgkohddjgnabjamk).
 
 Generates a random password using a non-ambiguous character set
 and the browser's [crypto RNG](https://developer.mozilla.org/en-US/docs/Web/API/RandomSource/getRandomValues).

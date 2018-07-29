@@ -9,7 +9,7 @@ The password has an entropy of ~190 bits.
 For an easier to remember *passphrase* try this [passphrase generator](https://github.com/araemot/passphrase-generator).
 
 The author is one of the [#MillionsMissing](https://www.meaction.net).
-Please consider donating to the [Open Medicine Foundation](https://www.omf.ngo) for much needed research.
+If you find this software useful, please consider donating to the [Open Medicine Foundation](https://www.omf.ngo) for much needed research.
 Thank you.
 
 Dice icon by [Gregor Cresnar](https://www.flaticon.com/authors/gregor-cresnar)

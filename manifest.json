@@ -4,7 +4,7 @@
   "name": "Simple Password Generator",
   "homepage_url": "https://github.com/araemot/password-generator",
 
-  "description": "Generates a random password from a non-ambiguous character set.",
+  "description": "Generates a random password using the browser's crypto RNG.",
   "version": "2018.5.28",
 
   "icons": {

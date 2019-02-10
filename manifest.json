@@ -5,7 +5,7 @@
   "homepage_url": "https://github.com/araemot/password-generator",
 
   "description": "Generates a secure password using the browser's crypto RNG.",
-  "version": "2018.5.28.2",
+  "version": "2018.5.28.3",
 
   "icons": {
     "48": "dice48.png",

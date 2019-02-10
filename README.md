@@ -3,7 +3,7 @@
 Install for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-password-generator1)
 and for [Chrome](https://chrome.google.com/webstore/detail/simple-password-generator/pbooddcbabpliclljgkohddjgnabjamk).
 
-Generates a random password using the browser's [crypto RNG](https://developer.mozilla.org/en-US/docs/Web/API/RandomSource/getRandomValues)
+Generates a secure password using the browser's [crypto RNG](https://developer.mozilla.org/en-US/docs/Web/API/RandomSource/getRandomValues)
 and a non-ambiguous character set.
 The password has an entropy of ~190 bits.
 For an easier to remember *passphrase* try this [passphrase generator](https://github.com/araemot/passphrase-generator).
